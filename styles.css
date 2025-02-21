@@ -3,3 +3,12 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+body {
+height: 100vh;
+}
+
+nav ul {
+display: flex;
+gap: 10px;
+list-style-type: none;
+}
